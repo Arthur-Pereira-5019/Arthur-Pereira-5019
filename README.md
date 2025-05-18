@@ -22,6 +22,7 @@
 ### What I learned outside:
 - 🗺️Design Patterns
 - ☕More on Java that I used on my Projects.
+- 📱Basics of Flutter
 
 ### Next Steps:
 - ▶️Learn the Spring Framework [Already have some notions]
