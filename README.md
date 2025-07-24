@@ -9,17 +9,18 @@
 
 ### IT Technical Course while in High School at IFSC:
 - ☕Java: OOP, Lambda, Streams, Swing and the Windowbuilder plugin
-- 🎮C# and for Unity Game Development
+- 🎮C# for Unity Game Development
 - 🖥️MySQL database
 - 🪟Software Planning and Design
 - 🐍Notions of C, Python and Operational Systems.
 
 ### What I learned outside:
 - 🗺️Design Patterns
-- ☕More on Java that I used on my Projects.
+- ☕More on Java
 - 📱Basics of Flutter
 - 🌙Lua Language
 - 📆MS Office
+- ➕C++
 
 ### Next Steps:
 - ▶️Learn the Spring Framework [Already have some notions]
